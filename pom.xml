@@ -12,16 +12,14 @@
     <dependencies>
         <dependency>
             <groupId>org.bukkit</groupId>
-            <artifactId>craftbukkit</artifactId>
-            <version>1.7.10-R0.1-SNAPSHOT</version>
-            <type>jar</type>
-            <scope>compile</scope>
+            <artifactId>bukkit</artifactId>
+            <version>1.8-R0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
     <repositories>
         <repository>
-            <id>repobo-snap</id>
-            <url>http://repo.bukkit.org/content/groups/public</url>
+            <id>spigot-repo</id>
+            <url>https://hub.spigotmc.org/nexus/content/groups/public/</url>
         </repository>
     </repositories>
 
