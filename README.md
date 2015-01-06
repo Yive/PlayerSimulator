@@ -1,0 +1,1 @@
+Just requires 1.8 craftbukkit to compile.
